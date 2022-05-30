@@ -4,7 +4,6 @@ Framework to develop and deploy machine learning models that predict material pr
 
 Authors: D.Willhelm, N.Wilson, R. Arroyave, Xiaoning Qian, T.Cagin, R.Pachter, Xiaofeng Qian
 
-
 ![alt text](https://github.com/dwillhelm/HetML/blob/master/docs/figs/figure_1_new_DW_XQ_v3_highres.jpg?raw=true)
 
 ## Framework  
@@ -20,6 +19,8 @@ Target Properties:
 
 
 Some Deep learing models were also tested and can be found at this [repo](https://github.com/dwillhelm/DeepHetML)
+
+
 
 ![alt text](https://github.com/dwillhelm/HetML/blob/master/docs/figs/figure_6.svg?raw=true)
 
