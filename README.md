@@ -1,5 +1,9 @@
-# HetML
-Framework to develop and deploy machine learning models that predict material properties of van der Waal heterostructures
+# HetML  
+
+Acompaning repo for "Predicting Van der Waals Heterostructures by a Combined Machine Learning and Density Functional Theory Approach" (ACS Appl. Mater. Interfaces)
+
+
+Framework to develop and deploy machine learning models that predict material properties of van der Waal heterostructures. 
 
 
 
