@@ -1,0 +1,66 @@
+,lasso_coefs
+mean_vbmsite_vdw_radius,-0.3491459534952316
+avg_vbm_hybridization,-0.1438614420042624
+avg_vbm_mend_no,-0.137834326273252
+PymatgenData mean X,-0.13408532452365335
+avg_vbm_score_1,-0.08650746832256333
+PymatgenData mean melting_point,-0.0752433035186295
+avg_cbm_s,-0.0702786117236034
+mean_cbmsite_elecneg,-0.06304631318468927
+PymatgenData std_dev atomic_radius,-0.06101731644323136
+avg_cbm_pd,-0.0404739607435379
+avg_vbm_d,-0.034970023211374685
+mean_cbmsite_vdw_radius,-0.03405865300985405
+avg_cbm_sp,-0.03379742384167982
+PymatgenData mean thermal_conductivity,-0.02903855366945541
+PymatgenData mean atomic_radius,-0.02601578626032341
+PymatgenData minimum melting_point,-0.02578069050042499
+avg_gap_nosoc,-0.025406664858171415
+avg_vbm_char_p,-0.01889685450743141
+avg_cbm_hybridization,-0.018485814380170232
+mean_cbmsite_mass,-0.018454250083610697
+avg_efermi_hse_nosoc,-0.01733770592711576
+avg_vbm_sd,-0.013656894843011174
+avg_evac,-0.010798995160986539
+PymatgenData minimum thermal_conductivity,-0.007757974966915504
+PymatgenData maximum atomic_mass,-0.007757186376268534
+avg_excitonmass2,-0.004090821284774133
+PymatgenData minimum atomic_mass,-0.003293200407625953
+band_alignment_1,-0.0021902986317611237
+mean_vbmsite_mp,-0.0013675128687785328
+mean_cbmsite_atomic_rad,-0.0007637464645265783
+avg_alphax,-0.00018045379542511433
+avg_c_12,-5.9281482239548496e-05
+avg_vbm,0.0014378921195885416
+PymatgenData std_dev X,0.003067200313647262
+PymatgenData std_dev thermal_conductivity,0.0034141150272015003
+PymatgenData range thermal_conductivity,0.004767096395516373
+band_alignment_3,0.005324183157137697
+avg_vbm_s,0.006897537939407495
+avg_emass1,0.007638812747834812
+avg_emass2,0.009717662893130957
+avg_cbm_p,0.014127323357841684
+avg_excitonmass1,0.01720492965462041
+min_vbm,0.01775403411710235
+PymatgenData maximum thermal_conductivity,0.02320721474160818
+avg_bse_binding,0.028953131566215904
+avg_cbm_score_1,0.03038118015355157
+avg_cbm_sd,0.03079125544090465
+PymatgenData maximum atomic_radius,0.03408137653107216
+min_cbm,0.04360751853084963
+PymatgenData std_dev melting_point,0.046169708598656545
+avg_cbm_char_s,0.04650994414928462
+PymatgenData minimum atomic_radius,0.051461658460022264
+mean_cbmsite_nvalence,0.051713042883216646
+avg_cbm,0.05478814911027935
+avg_vbm_char_s,0.057327456827180136
+avg_c_11,0.057618322593258414
+avg_hform,0.057760753608235064
+mean_vbmsite_nvalence,0.0587363641833619
+mean_cbmsite_atomic_vol,0.07051405836469513
+avg_vbm_pd,0.0804122297470753
+mean_cbmsite_mp,0.10732130727914423
+PymatgenData mean mendeleev_no,0.15984473955349837
+avg_alphaz,0.20420484387581603
+mean_vbmsite_atomic_rad,0.20717540792507094
+stacktype,0.26608423671866765

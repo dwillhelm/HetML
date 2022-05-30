@@ -1,0 +1,51 @@
+,lasso_coefs
+stacktype,-2.5495188359698453
+avg_lattice_param,-2.2074650999389767
+mean_cbmsite_mp,-1.2705369115093414
+avg_alphaz,-1.1884018366982778
+cbmvbm,-1.1384903848860595
+avg_c_11,-1.0851143680710902
+avg_cbm_char_s,-0.7882815024248665
+avg_bse_binding,-0.5558674549913842
+PymatgenData range melting_point,-0.5424161132127533
+avg_cbm_p,-0.4161910573397993
+PymatgenData minimum atomic_radius,-0.39587227797266195
+avg_hform,-0.3681544398972319
+avg_cbm,-0.33565475204701556
+avg_vbm_char_p,-0.2707561338640665
+avg_cbm_sd,-0.21174049333074926
+mean_cbmsite_nvalence,-0.1606279561796162
+mean_vbmsite_nvalence,-0.13622025546657177
+mean_vbmsite_atomic_rad,-0.13001798362753886
+band_alignment_2,-0.12928655271652612
+min_cbm,-0.11384095670229692
+avg_excitonmass2,-0.10833592405735357
+PymatgenData maximum atomic_radius,-0.09471763920605408
+avg_emass1,-0.05166288530102
+PymatgenData mean mendeleev_no,-0.05096791834169365
+mean_cbmsite_mass,-0.03674421821011908
+avg_excitonmass1,-0.0325420867394027
+avg_cbm_score_1,-0.0061569251010837
+PymatgenData range thermal_conductivity,-0.0003285811067458918
+PymatgenData minimum atomic_mass,0.002342287500671121
+band_alignment_1,0.024725692292079066
+avg_vbm_char_s,0.03711511324157181
+PymatgenData maximum atomic_mass,0.11342873953823196
+mean_cbmsite_elecneg,0.17726949534330866
+PymatgenData minimum X,0.1898833267875481
+avg_c_12,0.1908254499625889
+PymatgenData mean atomic_mass,0.20365788268359925
+mean_vbmsite_elecneg,0.21776985698138915
+PymatgenData minimum thermal_conductivity,0.28486890419416533
+avg_cbm_hybridization,0.31945527247116984
+avg_efermi_hse_nosoc,0.3203919643182245
+PymatgenData minimum melting_point,0.39764933545533593
+avg_vbm_sp,0.44000817956717664
+min_vbm,0.576521177689753
+avg_vbm_mend_no,0.5867027955226608
+avg_cbm_pd,0.6671165931866414
+mean_cbmsite_atomic_rad,0.7139272393130535
+avg_cbm_s,1.1965946241098415
+avg_vbm_hybridization,1.2630947702629407
+PymatgenData mean melting_point,1.4555455330249274
+avg_vbm_score_1,1.466472828059357

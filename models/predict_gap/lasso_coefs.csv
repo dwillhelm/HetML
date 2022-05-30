@@ -1,0 +1,57 @@
+,lasso_coefs
+max_cbm,-0.3385552026401711
+avg_vbm_p,-0.15343610255005466
+PymatgenData std_dev atomic_mass,-0.1426171368966771
+avg_cbm_pd,-0.11040589190585368
+mean_cbmsite_atomic_rad,-0.09176214555590795
+PymatgenData range atomic_radius,-0.08836650673174452
+avg_efermi_hse_nosoc,-0.07875028539009388
+PymatgenData minimum X,-0.07345485672521411
+avg_alphax,-0.0550740742562123
+band_alignment_1,-0.053909563712639136
+PymatgenData mean atomic_radius,-0.04418763068608776
+PymatgenData mean mendeleev_no,-0.04023594096316922
+PymatgenData maximum melting_point,-0.036784821674632054
+PymatgenData std_dev thermal_conductivity,-0.03615769692778553
+avg_emass2,-0.034107050372288845
+mean_vbmsite_atomic_rad,-0.03341850490016678
+max_vbm,-0.020594279815324815
+mean_vbmsite_mass,-0.01563448267188709
+avg_alphaz,-0.015052883148102584
+avg_cbm_mend_no,-0.014885170916548784
+PymatgenData std_dev X,-0.014700543907801903
+avg_emass1,-0.013597800301597306
+PymatgenData minimum melting_point,-0.011483809249380153
+PymatgenData mean X,-0.009376738469056612
+mean_vbmsite_elecneg,-0.008393653441839165
+PymatgenData minimum atomic_mass,-0.0023496798561127344
+avg_vbm_char_p,-0.0001221055343668031
+avg_vbm_pd,0.0017105310529568548
+stacktype,0.00575106562019328
+avg_delta_mend_no,0.007896920053850622
+PymatgenData mean thermal_conductivity,0.015583799109131794
+avg_evac,0.01784770506584176
+mean_vbmsite_nvalence,0.018751993688297323
+avg_excitonmass2,0.022749861576926367
+avg_cbm_sd,0.024979441162561757
+avg_vbm_hybridization,0.027153714327689465
+PymatgenData minimum thermal_conductivity,0.030379732010985618
+PymatgenData maximum thermal_conductivity,0.03132666420073251
+avg_excitonmass1,0.03205926042126122
+avg_vbm_char_s,0.03206246556225978
+avg_vbm_s,0.03560974024143092
+avg_cmb_spd_card,0.038608266754194175
+PymatgenData range atomic_mass,0.043382968282767574
+mean_cbmsite_mass,0.043791787466253035
+avg_c_11,0.04617189835482571
+avg_c_12,0.06753311570251015
+mean_vbmsite_atomic_vol,0.07180530177795723
+PymatgenData std_dev atomic_radius,0.0794797754306953
+avg_lattice_param,0.08800971092231596
+avg_cbm_p,0.09143500311775601
+avg_hform,0.09344504133213977
+cbmvbm,0.1431108194726294
+avg_cbm_sp,0.16400758808535812
+avg_cbm_char_d,0.29116754556437136
+min_vbm,0.48777274537187976
+avg_gap_nosoc,1.0644030010302616
