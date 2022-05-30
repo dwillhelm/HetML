@@ -18,6 +18,9 @@ Target Properties:
 * (Coming Soon!) Dipole Moment
 * (Coming Soon!) In-plance lattice constant  
 
+
+Some Deep learing models were also tested and can be found at this [repo](https://github.com/dwillhelm/DeepHetML)
+
 ![alt text](https://github.com/dwillhelm/HetML/blob/master/docs/figs/figure_6.svg?raw=true)
 
 
