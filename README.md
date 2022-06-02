@@ -2,7 +2,7 @@
 
 Framework to develop and deploy machine learning models that predict material properties of van der Waal heterostructures. Acompaning repo for **"Predicting Van der Waals Heterostructures by a Combined Machine Learning and Density Functional Theory Approach"** published in ACS Appl. Mater. Interfaces. https://pubs.acs.org/doi/10.1021/acsami.2c04403
 
-Authors: D.Willhelm, N.Wilson, R. Arroyave, Xiaoning Qian, T.Cagin, R.Pachter, Xiaofeng Qian
+Authors: Daniel Willhelm, Nathan Wilson, Raymundo Arroyave, Xiaoning Qian, Tahir Cagin, Ruth Pachter, Xiaofeng Qian
 
 <!-- ![alt text](https://github.com/dwillhelm/HetML/blob/master/docs/figs/figure_1_new_DW_XQ_v3_highres.jpg?raw=true) -->
 
