@@ -1,11 +1,10 @@
 # HetML  
 
-Framework to develop and deploy machine learning models that predict material properties of van der Waal heterostructures. Acompaning repo for **"Predicting Van der Waals Heterostructures by a Combined Machine Learning and Density Functional Theory Approach"** published in ACS Appl. Mater. Interfaces. https://pubs.acs.org/doi/10.1021/acsami.2c04403
+HetML is a framework to develop and deploy machine learning models that predict material properties of van der Waals heterostructures.  Please cite the following reference if you use this repo:  
 
-Authors: D.Willhelm, N.Wilson, R. Arroyave, Xiaoning Qian, T.Cagin, R.Pachter, Xiaofeng Qian
+>“Predicting Van der Waals Heterostructures by a Combined Machine Learning and Density Functional Theory Approach”, Daniel Willhelm, Nathan Wilson, Raymundo Arroyave, Xiaoning Qian, Tahir Cagin, Ruth Pachter, and Xiaofeng Qian, ***ACS Applied Materials & Interfaces (2022)***.  https://pubs.acs.org/doi/10.1021/acsami.2c04403
 
-
-![alt text](https://github.com/dwillhelm/HetML/blob/master/docs/figs/figure_1_new_DW_XQ_v3_highres.jpg?raw=true)
+<!-- ![alt text](https://github.com/dwillhelm/HetML/blob/master/docs/figs/figure_1_new_DW_XQ_v3_highres.jpg?raw=true) -->
 
 ## Framework  
 Target Properties: 
@@ -18,14 +17,14 @@ Target Properties:
 * (Coming Soon!) Dipole Moment
 * (Coming Soon!) In-plance lattice constant  
 
-![alt text](https://github.com/dwillhelm/HetML/blob/master/docs/figs/figure_6.svg?raw=true)
+
+Some Deep learing models were also tested and can be found at this [repo](https://github.com/dwillhelm/DeepHetML)
 
 
-## Manuscript  
-**Abstract**:  
-Van der Waals (vdW) heterostructures are constructed by different two-dimensional (2D) monolayers vertically stacked and weakly coupled by van der Waals interactions. VdW heterostructures often possess rich physical and chemical properties that are unique to their constituent monolayers. As many 2D materials have been recently identified, the combinatorial configuration space of vdW-stacked heterostructures grows exceedingly large, making it difficult to explore through traditional experimental or computational approaches in a trial-and-error manner. Here, we present a computational framework that combines first-principles electronic structure calculations, 2D material database, and supervised machine learning methods to construct efficient data-driven models capable of predicting electronic and structural properties of vdW heterostructures from their constituent monolayer properties. We apply this approach to predict the band gap, band edges, interlayer distance, and interlayer binding energy of vdW heterostructures. Our data-driven model will open avenues for efficient screening and discovery of low-dimensional vdW heterostructures and moiré superlattices with desired electronic and optical properties for targeted device applications.  
+<!-- ![alt text](https://github.com/dwillhelm/HetML/blob/master/docs/figs/figure_6.svg?raw=true) -->
 
-https://pubs.acs.org/doi/10.1021/acsami.2c04403
+
+<!-- https://pubs.acs.org/doi/10.1021/acsami.2c04403 -->
 
 
 ## ToDo: 
