@@ -18,7 +18,8 @@ Target Properties:
 * (Coming Soon!) In-plance lattice constant  
 
 
-Some Deep learing models were also tested and can be found at this [repo](https://github.com/dwillhelm/DeepHetML)
+Some **deep learing models** were also tested and can be found at this [repo](https://github.com/dwillhelm/DeepHetML)  
+An **active learning** (i.e. sequential learning) and baysian optimization demonstration can be found at this [repo](https://github.com/dwillhelm/ActiveHetML)
 
 
 <!-- ![alt text](https://github.com/dwillhelm/HetML/blob/master/docs/figs/figure_6.svg?raw=true) -->
