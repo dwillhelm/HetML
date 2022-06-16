@@ -7,16 +7,16 @@ HetML is a framework to develop and deploy machine learning models that predict 
 <!-- ![alt text](https://github.com/dwillhelm/HetML/blob/master/docs/figs/figure_1_new_DW_XQ_v3_highres.jpg?raw=true) -->
 
 ## Framework  
-|Target Properties |  MAE    |
-| ---  | ---- | 
-|Band Gap Energy ($eV$) | 0.12 $eV$  |
-|Ionization Energy ($eV$) | 0.09 $eV$  |
-|Electron Affiniity ($eV$) | 0.11 $eV$  | 
-|Interlayer Distance ($\mathring A$)|  0.11 $\mathring A$|   
-|Interlayer Binding Energy ($meV/\mathring A^2$) | 1.4 $meV/\mathring A^2$ | 
-| Charge Transfer (via Bader Analysis) |(Coming Soon!)   | 
-| Dipole Moment | (Coming Soon!) | 
-| In-plance lattice constant  |(Coming Soon!)  |
+|Target Properties |  MAE    |  RMSE | 
+| ---  | :----: | :----: | 
+|Band Gap Energy ($eV$) | 0.12 $eV$  | 0.17 $eV$  |
+|Ionization Energy ($eV$) | 0.09 $eV$  | 0.14 $eV$  | 
+|Electron Affiniity ($eV$) | 0.11 $eV$  | 0.17 $eV$  |
+|Interlayer Distance ($\mathring A$)|  0.11 $\mathring A$ |  0.18  $\mathring A$ | 
+|Interlayer Binding Energy ($meV/\mathring A^2$) | 1.4 $meV/\mathring A^2$ | 2.3 $meV/\mathring A^2$ |
+| Charge Transfer (via Bader Analysis) |(Coming Soon!)   | (Coming Soon!) | 
+| Dipole Moment | (Coming Soon!) | (Coming Soon!) | 
+| In-plance lattice constant  |(Coming Soon!)  | (Coming Soon!) | 
 
 
 Some **deep learing models** were also tested and can be found at this [repo](https://github.com/dwillhelm/DeepHetML)  
