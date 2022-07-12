@@ -40,7 +40,7 @@ future @ file:///home/conda/feedstock_root/build_artifacts/future_1649010148304/
 gmpy2==2.1.0b5
 gradio==3.0.5
 h11==0.13.0
--e git+https://github.com/dwillhelm/HetML.git@9277da4aa0d71dac0ed2634256ed61e015bf7c55#egg=hetml
+-e git+https://github.com/dwillhelm/HetML.git@4e5a8af260182208212f6eca9e9424f4abbccd41#egg=hetml
 idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1642433548627/work
 importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1648728286052/work
 importlib-resources @ file:///home/conda/feedstock_root/build_artifacts/importlib_resources_1649898579003/work
@@ -89,7 +89,7 @@ netCDF4==1.5.7
 networkx @ file:///home/conda/feedstock_root/build_artifacts/networkx_1646497321764/work
 notebook @ file:///opt/conda/conda-bld/notebook_1651734535442/work
 numexpr @ file:///tmp/build/80754af9/numexpr_1640704205910/work
-numpy==1.21.2
+numpy==1.22.0
 olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
 orjson==3.6.8
 packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1637239678211/work

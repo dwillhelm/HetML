@@ -157,8 +157,6 @@ dependencies:
   - networkx=2.7.1
   - notebook=6.4.11
   - numexpr=2.8.1
-  - numpy=1.21.2
-  - numpy-base=1.21.2
   - olefile=0.46
   - openh264=2.1.1
   - openjpeg=2.4.0
@@ -276,6 +274,7 @@ dependencies:
     - mdurl==0.1.1
     - monotonic==1.6
     - multidict==6.0.2
+    - numpy==1.22.0
     - orjson==3.6.8
     - paramiko==2.11.0
     - pycryptodome==3.14.1
