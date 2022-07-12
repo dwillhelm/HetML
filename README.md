@@ -7,6 +7,7 @@ HetML is a framework to develop and deploy machine learning models that predict 
 <!-- ![alt text](https://github.com/dwillhelm/HetML/blob/master/docs/figs/figure_1_new_DW_XQ_v3_highres.jpg?raw=true) -->
 
 ## Framework  
+<<<<<<< HEAD
 Target Properties: 
 * Band Gap Energy (eV) 
 * Ionization Energy (eV) 
@@ -19,6 +20,22 @@ Target Properties:
 
 
 Some Deep learning models were also tested and can be found at this [repo](https://github.com/dwillhelm/DeepHetML)
+=======
+|Target Properties |  MAE    |  RMSE | 
+| ---  | :----: | :----: | 
+|Band Gap Energy ($eV$) | 0.12 $eV$  | 0.17 $eV$  |
+|Ionization Energy ($eV$) | 0.09 $eV$  | 0.14 $eV$  | 
+|Electron Affiniity ($eV$) | 0.11 $eV$  | 0.17 $eV$  |
+|Interlayer Distance ($\mathring A$)|  0.11 $\mathring A$ |  0.18  $\mathring A$ | 
+|Interlayer Binding Energy ($meV/\mathring A^2$) | 1.4 $meV/\mathring A^2$ | 2.3 $meV/\mathring A^2$ |
+| Charge Transfer (via Bader Analysis) |(Coming Soon!)   | (Coming Soon!) | 
+| Dipole Moment | (Coming Soon!) | (Coming Soon!) | 
+| In-plance lattice constant  |(Coming Soon!)  | (Coming Soon!) | 
+
+
+Some **deep learing models** were also tested and can be found at this [repo](https://github.com/dwillhelm/DeepHetML)  
+An **active learning** (i.e. sequential learning) and baysian optimization demonstration can be found at this [repo](https://github.com/dwillhelm/ActiveHetML)
+>>>>>>> 4bb52b6447d13ed2999845f0a3591bc666d60cbb
 
 
 <!-- ![alt text](https://github.com/dwillhelm/HetML/blob/master/docs/figs/figure_6.svg?raw=true) -->
