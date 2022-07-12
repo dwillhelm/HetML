@@ -7,20 +7,6 @@ HetML is a framework to develop and deploy machine learning models that predict 
 <!-- ![alt text](https://github.com/dwillhelm/HetML/blob/master/docs/figs/figure_1_new_DW_XQ_v3_highres.jpg?raw=true) -->
 
 ## Framework  
-<<<<<<< HEAD
-Target Properties: 
-* Band Gap Energy (eV) 
-* Ionization Energy (eV) 
-* Electron Affiniity (eV) 
-* Interlayer Distance (Angstrom)  
-* Interlayer Binding Energy (meV/Angstrom^2)   
-* (Coming Soon!) Charge Transfer (via Bader Analysis) 
-* (Coming Soon!) Dipole Moment
-* (Coming Soon!) In-plance lattice constant  
-
-
-Some Deep learning models were also tested and can be found at this [repo](https://github.com/dwillhelm/DeepHetML)
-=======
 |Target Properties |  MAE    |  RMSE | 
 | ---  | :----: | :----: | 
 |Band Gap Energy ($eV$) | 0.12 $eV$  | 0.17 $eV$  |
@@ -35,7 +21,6 @@ Some Deep learning models were also tested and can be found at this [repo](https
 
 Some **deep learing models** were also tested and can be found at this [repo](https://github.com/dwillhelm/DeepHetML)  
 An **active learning** (i.e. sequential learning) and baysian optimization demonstration can be found at this [repo](https://github.com/dwillhelm/ActiveHetML)
->>>>>>> 4bb52b6447d13ed2999845f0a3591bc666d60cbb
 
 
 <!-- ![alt text](https://github.com/dwillhelm/HetML/blob/master/docs/figs/figure_6.svg?raw=true) -->
