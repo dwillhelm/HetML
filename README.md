@@ -9,11 +9,11 @@ HetML is a framework to develop and deploy machine learning models that predict 
 ## Framework  
 |Target Properties |  MAE    |  RMSE | 
 | ---  | :----: | :----: | 
-|Band Gap Energy ($eV$) | 0.12 $eV$  | 0.17 $eV$  |
-|Ionization Energy ($eV$) | 0.09 $eV$  | 0.14 $eV$  | 
-|Electron Affiniity ($eV$) | 0.11 $eV$  | 0.17 $eV$  |
-|Interlayer Distance ($\mathring A$)|  0.11 $\mathring A$ |  0.18  $\mathring A$ | 
-|Interlayer Binding Energy ($meV/\mathring A^2$) | 1.4 $meV/\mathring A^2$ | 2.3 $meV/\mathring A^2$ |
+|Band Gap Energy ( $eV$ ) | 0.12 $eV$  | 0.17 $eV$  |
+|Ionization Energy ( $eV$ ) | 0.09 $eV$  | 0.14 $eV$  | 
+|Electron Affiniity ( $eV$ ) | 0.11 $eV$  | 0.17 $eV$  |
+|Interlayer Distance ( $\mathring A$ )|  0.11 $\mathring A$ |  0.18  $\mathring A$ | 
+|Interlayer Binding Energy ( $meV/\mathring A^2$ ) | 1.4 $meV/\mathring A^2$ | 2.3 $meV/\mathring A^2$ |
 | Charge Transfer (via Bader Analysis) |(Coming Soon!)   | (Coming Soon!) | 
 | Dipole Moment | (Coming Soon!) | (Coming Soon!) | 
 | In-plance lattice constant  |(Coming Soon!)  | (Coming Soon!) | 
