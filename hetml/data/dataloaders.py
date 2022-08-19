@@ -69,9 +69,16 @@ class LoadFeatureSets():
         return df_merged
 
 def load_featureset(target='Egap', stacktype='AUB'): 
+    """
+    returns processed/final features, targets, unlabeled data
+    """
+    # get reference datasets
     master, targets = quickload_datatables() 
+    # load default raw features
     fs0 = LoadFeatureSets().fit_from_index([2,0,8,7])
     # apply filtering steps
     x,y,x0 = FilterSteps(master, targets, fs0).fit(target, stacktype)
     
     return x,y,x0
+
+
